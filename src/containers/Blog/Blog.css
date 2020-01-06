@@ -5,3 +5,25 @@
     width: 80%;
     margin: auto;
 }
+
+.Nav
+{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.Nav ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+.Nav ul li a
+{
+    color: black;
+    text-decoration: none;
+}
+.Nav ul li a:hover
+{
+    color: orange;
+}
